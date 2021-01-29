@@ -30,7 +30,7 @@ pip / easy\_install
 ~~~~~~~~~~~~~~~~~~~
 
 ::
-    apt install python3-pip
+    apt-get install python-pip
 
     pip install speedtest-cli
 
